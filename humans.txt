@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Willem Strydom   willem.strydom@momentummetropolitan.co.za
 
 # THANKS
 
